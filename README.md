@@ -15,3 +15,15 @@ We conduct talks, workshops, activities, one-to-one sessions and dev-sprints to 
 Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalink/625576687984277/) and [Discord server](https://discord.gg/yETyUJb) to connect with us and get to know about all our upcoming activities.
 
 ---
+
+# Code of Conduct
+
+[Read Here](code-of-conduct.md)
+
+---
+
+# Team Members
+
+Meet the team behing this successful society. [Visit](https://github.com/JIITODC/JODC-TEAM).
+
+---
