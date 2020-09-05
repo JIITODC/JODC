@@ -27,3 +27,9 @@ Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalin
 Meet the team behing this successful society. [Visit](https://github.com/JIITODC/JODC-TEAM).
 
 ---
+
+## Join Us
+
+Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalink/625576687984277/) and [Telegram Group](https://t.me/jiitodc) to connect with us and get to know about all our upcoming activities.
+
+---
